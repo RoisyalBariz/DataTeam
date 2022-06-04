@@ -1,0 +1,153 @@
+@prefix id: <https://TeamSepakBola.com/> .
+@prefix data: <https://TeamSepakBola.com/ns/data#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+    id:1
+        data:namateam "Persib Bandung";
+        data:tahunberdiri "14 Maret 1933";
+        data:asal "Kota Bandung";
+        data:pelatih "Robert Rene Alberts".
+
+    id:2  
+        data:namateam "Persikabo 1973";
+        data:tahunberdiri "3 Juli 2015";
+        data:asal "Kabupaten Bogor";
+        data:pelatih "Djajang Nurjaman".
+    
+    id:3  
+        data:namateam "PSKC Cimahi";
+        data:tahunberdiri "23 Oktober 2001";
+        data:asal "Kota Cimahi";
+        data:pelatih "Robby Darwis".
+
+    id:4  
+        data:namateam "Persikab Bandung";
+        data:tahunberdiri "27 Juli 1963";
+        data:asal "Kabupaten Bandung";
+        data:pelatih "Albert Rudiana".
+
+    id:5  
+        data:namateam "Bandung United FC";
+        data:tahunberdiri "5 Januari 2019";
+        data:asal "Kota Bandung";
+        data:pelatih "Lukas Tumbuan".
+
+    id:6  
+        data:namateam "Benpica FC";
+        data:tahunberdiri "1 Agustus 1975";
+        data:asal "Kabupaten Karawang";
+        data:pelatih "Ega Raka Galih".
+
+    id:7  
+        data:namateam "Bintang Timur FC";
+        data:tahunberdiri "24 Juli 2009";
+        data:asal "Kabupaten Sukabumi";
+        data:pelatih "Fredi".
+
+    id:8  
+        data:namateam "Citeureup Raya FC";
+        data:tahunberdiri "3 Juni 2012";
+        data:asal "Kabupaten Bogor";
+        data:pelatih "Dian Irawan".
+
+    id:9  
+        data:namateam "Depok City FC";
+        data:tahunberdiri "18 Novenber 2020";
+        data:asal "Kota Depok";
+        data:pelatih "Supari".
+
+    id:10  
+        data:namateam "Depok United FC";
+        data:tahunberdiri "3 September 2011";
+        data:asal "Kota Depok";
+        data:pelatih "Pradi Supriatna".
+    
+    id:11  
+        data:namateam "Cimahi Putra FC";
+        data:tahunberdiri "12 November 2021";
+        data:asal "Kota Cimahi";
+        data:pelatih "Suwita Patha".
+
+    id:12  
+        data:namateam "Karawang United FC";
+        data:tahunberdiri "3 Februari 2020";
+        data:asal "Kabupaten Karawang";
+        data:pelatih "Cikwan Suwandi".
+
+    id:13  
+        data:namateam "Maung Anom FC";
+        data:tahunberdiri "16 Maret 2017";
+        data:asal "Kota Bandung";
+        data:pelatih "Mohammad Yudhiantara".
+
+    id:14  
+        data:namateam "PCB Persipasi";
+        data:tahunberdiri "22 Agustus 2021";
+        data:asal "Kota Bekasi";
+        data:pelatih "Aan Suhanda".
+
+    id:15  
+        data:namateam "Persekabtas Tasikmalaya";
+        data:tahunberdiri "1 Juni 2018";
+        data:asal "Kabupaten Tasikmalaya";
+        data:pelatih "Dedi Permana".
+
+    id:16  
+        data:namateam "Perses Sumedang";
+        data:tahunberdiri "16 oktober 1950";
+        data:asal "Kabupaten Sumedang";
+        data:pelatih "Marfono".
+
+    id:17  
+        data:namateam "Persigar Garut";
+        data:tahunberdiri "28 September 1949";
+        data:asal "Kabupaten Garut";
+        data:pelatih "Heri Dedeng".
+
+    id:18  
+        data:namateam "Persika Karawang";
+        data:tahunberdiri "18 Mei 1951";
+        data:asal "Kabupaten Karawang";
+        data:pelatih "Ilham Ksatria Aji".
+    
+    id:19  
+        data:namateam "Persikasi Bekasi";
+        data:tahunberdiri "16 Maret 1961";
+        data:asal "Kabupaten Bekasi";
+        data:pelatih "Heriyanto".
+
+    id:20  
+        data:namateam "Persima Majalengka";
+        data:tahunberdiri "5 Agustus 1960";
+        data:asal "Kabupaten Majalengka";
+        data:pelatih "H. Suhardi".
+
+    id:21  
+        data:namateam "Persipo Purwakarta";
+        data:tahunberdiri "20 September 1936";
+        data:asal "Kabupaten Purwakarta";
+        data:pelatih "Muntasirin".
+
+    id:22  
+        data:namateam "Persitas Tasikmalaya";
+        data:tahunberdiri "24 Oktober 1970";
+        data:asal "Kabupaten Tasikmalaya";
+        data:pelatih "Enur Nurdin".
+        
+    id:23  
+        data:namateam "Prima Con FC";
+        data:tahunberdiri "12 Desember 2019";
+        data:asal "Kota Cimahi";
+        data:pelatih "Wawan Suherwan".
+
+    id:24  
+        data:namateam "PSGJ Cirebon";
+        data:tahunberdiri "19 April 1962";
+        data:asal "Kabupaten Cirebon";
+        data:pelatih "Aris Susanto".
+
+    id:25  
+        data:namateam "PSGC Ciamis";
+        data:tahunberdiri "26 Agustus 1990";
+        data:asal "Kabupaten Ciamis";
+        data:pelatih "Heri Rafni Kotari".
